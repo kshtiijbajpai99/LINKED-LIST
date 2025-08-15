@@ -1,0 +1,21 @@
+# 📚 DSA Learning Log – Linked Lists
+
+**Date:** 15 August 2025  
+
+## 📝 What I Learned Today
+- **Double Linked List (DLL)**  
+  - Structure and creation of nodes with `prev` and `next` pointers  
+  - Insertion and deletion at head, tail, and specific positions  
+  - Traversal in both forward and backward directions  
+
+- **Single Linked List (SLL)**  
+  - Solved practice questions  
+  - Focused on insertion, deletion, and edge cases  
+
+## 💡 Key Takeaways
+- In DLL, we manage **two pointers** (`prev` and `next`) carefully to avoid memory leaks.
+- Traversal in DLL is more flexible compared to SLL.
+- For SLL, handling the **last node** and **head changes** correctly is critical.
+- Drawing diagrams while coding helped avoid pointer mismanagement.
+
+## 📂 Folder Structure
