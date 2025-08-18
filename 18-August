@@ -1,0 +1,21 @@
+# Linked List Problems (C++)
+
+This folder contains my solutions to various Linked List problems, including detection of loops, removing duplicates, adding numbers, and reversal in groups of k.
+
+## ✅ Problems Covered
+1. Detect loop in Linked List  
+2. Remove loop in Linked List  
+3. Remove duplicates from sorted Linked List  
+4. Add 1 to a number represented as Linked List  
+5. Reverse Linked List in groups of k  
+
+## 🔗 Problem Links
+- Detect Loop → [GeeksforGeeks](https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/)  
+- Remove Loop → [GeeksforGeeks](https://www.geeksforgeeks.org/remove-loop-in-linked-list/)  
+- Remove Duplicates (Sorted LL) → [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
+- Add 1 to Linked List → [GeeksforGeeks](https://www.geeksforgeeks.org/add-1-number-represented-linked-list/)  
+- Reverse in K Groups → [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
+
+---
+
+📌 All solutions are written in **C++** and tested on LeetCode/GFG.
